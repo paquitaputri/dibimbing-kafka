@@ -17,5 +17,5 @@ services:
 
 networks:
   default:
-    name: dataeng-network
+    name: kafka-assignment
     external: true
